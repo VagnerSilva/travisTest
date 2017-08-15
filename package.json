@@ -1,0 +1,13 @@
+{
+  "name": "travisTest",
+  "version": "1.0.0",
+  "description": "Teste Integrado",
+  "main": "index.js",
+  "repository": "git@github.com:VagnerSilva/travisTest.git",
+  "author": "VagnerSilva <vagner23silva@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
